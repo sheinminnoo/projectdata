@@ -1,0 +1,40 @@
+{
+    "trips": [
+        {   
+            "Id" : 1,
+            "name": "Shwedagon Pagoda",
+            "location": "Yangon",
+            "price": 50000
+        },
+        {
+            "Id" : 2,
+            "name": "Sule Pagoda",
+            "location": "Yangon",
+            "price": 30000
+        },
+        {
+            "Id" : 3,
+            "name": "Mahar Myatmuni Pagoda",
+            "location": "Mandalay",
+            "price": 100000
+        },
+        {
+            "Id" : 4,
+            "name": "Shwesandaw Pagoda",
+            "location": "Mandalay",
+            "price": 100000
+        },
+        {
+            "Id" : 5,
+            "name": "Ngwetaw Catcu",
+            "location": "Shan",
+            "price": 250000
+        },
+        {
+            "Id" : 6,
+            "name": "Inlay",
+            "location": "Shan",
+            "price": 300000
+        }
+    ]
+}
